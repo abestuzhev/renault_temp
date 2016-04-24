@@ -1,0 +1,75 @@
+.ul {
+margin-left: 15px; 
+}
+.ul-li {
+display: list-item;
+margin-left: 25px; 
+}
+.image1 #dots li.button1{
+    background: linear-gradient(to bottom, #FFD800, #FDBE00) #FFD800;
+	cursor:normal;
+}
+.image1 #image_container{
+	left:-0%;
+}
+.image2 #dots li.button2{
+    background: linear-gradient(to bottom, #FFD800, #FDBE00) #FFD800;
+	cursor:normal;
+}
+.image2 #image_container{
+	left:-100%;
+}
+.image3 #dots li.button3{
+    background: linear-gradient(to bottom, #FFD800, #FDBE00) #FFD800;
+	cursor:normal;
+}
+.image3 #image_container{
+	left:-200%;
+}
+.image4 #dots li.button4{
+    background: linear-gradient(to bottom, #FFD800, #FDBE00) #FFD800;
+	cursor:normal;
+}
+.image4 #image_container{
+	left:-300%;
+}
+.image5 #dots li.button5{
+    background: linear-gradient(to bottom, #FFD800, #FDBE00) #FFD800;
+    cursor:normal;
+}
+.image5 #image_container{
+    left:-400%;
+}
+.image6 #dots li.button6{
+    background: linear-gradient(to bottom, #FFD800, #FDBE00) #FFD800;
+    cursor:normal;
+}
+.image6 #image_container{
+    left:-500%;
+}
+.image7 #dots li.button7{
+    background: linear-gradient(to bottom, #FFD800, #FDBE00) #FFD800;
+    cursor:normal;
+}
+.image7 #image_container{
+    left:-600%;
+}
+.image8 #dots li.button8{
+    background: linear-gradient(to bottom, #FFD800, #FDBE00) #FFD800;
+    cursor:normal;
+}
+.image8 #image_container{
+    left:-700%;
+}
+.image9 #dots li.button9{
+    background: linear-gradient(to bottom, #FFD800, #FDBE00) #FFD800;
+    cursor:normal;
+}
+.image9 #image_container{
+    left:-800%;
+}
+#dots{
+	width: 176px;
+	left:50%;
+	margin-left:-38px;
+}

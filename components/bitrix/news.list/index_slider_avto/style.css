@@ -1,0 +1,91 @@
+.mcars {
+    background: none repeat scroll 0% 0% #CECECE;
+    border: 1px solid #CCC;
+    display: block;
+    float: left;
+    height: 15px;
+    margin-top: -22px;
+    padding: 3px 10px;
+    position: absolute;
+    text-decoration: none;
+    text-transform: uppercase;
+    z-index: 11;
+    color: #000;
+    font-size: 11px;
+}
+.mcars.s1 {
+    margin-left: 20px;
+}
+a.mcars.s2 {
+    margin-left: 155px;
+}
+.mcars.s {
+    background: none repeat scroll 0% 0% #FFF;
+    border-bottom: medium none;
+    height: 16px;
+}
+#cars_list {
+    position: relative;
+    width: 100%;
+    height: 142px;
+    overflow: hidden;
+    border-bottom: 1px solid #CCC;
+    z-index: 10;
+    padding: 0px;
+}
+#lcars, #ccars {
+    width: 100%;
+}
+#lcars {
+    z-index: 10;
+}
+#ccars {
+    z-index: 9;
+    display: none;
+}
+.lcars-prev, .ccars-prev {
+    z-index: 12;
+    float: left;
+    height: 80px;
+    padding-top: 40px;
+}
+.lcars-next, .ccars-next {
+    position: absolute;
+    right: 10px;
+    z-index: 12;
+    padding-top: 40px;
+}
+div.cars-wrapp {
+    width: 870px;
+    margin: 0px auto;
+    height: 120px;
+}
+ul.cars-slider {
+    list-style: outside none none;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+ul.cars-slider li {
+    float: left;
+    text-align: center;
+    width: 170px;
+    margin: 0px;
+}
+#cars_list #lcars .cars-slider li a.photo {
+    opacity: 0.5;
+}
+#cars_list #lcars .cars-slider li:hover a.photo {
+    opacity: 1;
+}
+ul.cars-slider li a.photo {
+    display: block;
+    clear: both;
+}
+ul.cars-slider li a.title {
+    text-decoration: none;
+    color: #666;
+    font-size: 11px;
+    text-transform: uppercase;
+    line-height: normal;
+}
