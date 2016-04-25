@@ -1826,6 +1826,10 @@ margin: 0 0 7px;
 
 
 /*End Блок в рамке*/
+.footer-copyright {
+  display: inline-block;
+  margin-left: 20px;
+}
 
 .footer-copyright img {
     float: left;

@@ -59,11 +59,18 @@
   .topbar{
     display: none;
   }
+  .logo {
+    height: 30px;
+  }
+  .footer-copyright {
+    font-size: 1.3rem;
+  }
 }
 
 @media screen and (max-width: 780px){
   .h-wrap, .main-banner, #slider, #image_container li, .top-nav{
-    width:650px;
+    width:95%;
+    margin: 0 20px;
   }
   #slider{
     height:395px;
