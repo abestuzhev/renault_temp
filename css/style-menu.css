@@ -58,9 +58,9 @@ input[type=text]::-ms-reveal {
 Main Components
 
 -------------------------------- */
-header {
-  height: 100px;
-  background: #fff;
+.menu-header {
+  height: 70px;
+  /*background: #fff;*/
 }
 
 .cd-dropdown-wrapper {
@@ -335,7 +335,6 @@ header {
 
 .cd-dropdown-content, .cd-dropdown-content ul {
   position: absolute;
-  top: 0;
   left: 0;
   width: 100%;
   height: 100%;
@@ -346,6 +345,18 @@ header {
   transition: transform 0.3s;
   /*padding-top: 17px;*/
 }
+.cd-dropdown-content ul {
+  top: 0;
+}
+
+.cd-dropdown-content {
+  top: -30px;
+}
+
+.menu-header {
+  height: 26px;
+}
+
 .cd-dropdown-content a, .cd-dropdown-content ul a {
   display: block;
   color: #ffffff;
@@ -536,7 +547,7 @@ header {
 @media only screen and (min-width: 940px) {
   .cd-dropdown-content {
     /* reset mobile style */
-    position: static;
+    /*position: static;*/
     height: auto;
     /*width: 280px;*/
   }

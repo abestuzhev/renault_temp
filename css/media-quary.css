@@ -1,3 +1,11 @@
+@media screen and (min-width: 940px) {
+  /*.menu-header {
+    height: 26px;
+  }
+  .cd-dropdown-content {
+    top: -30px;
+  }*/
+}
 @media screen and (max-width: 940px) {
   .h-wrap,
   .topbar{
@@ -45,7 +53,7 @@
   .video iframe {
    width: 100%;
    height: auto;
-}
+  }
 }
 
 
@@ -65,12 +73,17 @@
   .footer-copyright {
     font-size: 1.3rem;
   }
+
+  .cd-dropdown .cd-dropdown-content {
+    top: 0;
+  }
+
 }
 
 @media screen and (max-width: 780px){
   .h-wrap, .main-banner, #slider, #image_container li, .top-nav{
     width:95%;
-    margin: 0 20px;
+    margin: 0 10px;
   }
   #slider{
     height:395px;
@@ -80,6 +93,19 @@
 @media screen and (max-width: 780px){
   .diller{
     display: none;
+  }
+
+}
+
+@media screen and (max-width: 700px){
+  .aside {
+    float: none;
+    width:100%;
+    margin-bottom: 10px;
+  }
+  .h-content-inner {
+    margin-left: 0;
+    padding-right:5px;
   }
 
 }

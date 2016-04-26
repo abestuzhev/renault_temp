@@ -74,10 +74,11 @@ img {
 
 
 .h-content-inner {
-    clear:both;
-    float: right;
+    margin-left: 220px;
     font-size: 12px;
-    width: 710px;
+    /*clear:both;
+    float: right;
+    width: 710px;*/
 }
 
 .no-sidebar .h-content-inner {
