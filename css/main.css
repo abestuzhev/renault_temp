@@ -126,9 +126,15 @@ h4 {
 .topbar {
     background: #e1e1e1;
     padding: 5px 24px;
-	height:20px;
+	  height:20px;
     width:928px;
     margin:0px auto;
+    box-sizing: content-box;
+}
+.toper-nav ul::after {
+  content:"";
+  display: table;
+  clear: both;
 }
 
 .connect {

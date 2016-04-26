@@ -81,4 +81,45 @@
   .diller{
     display: none;
   }
+
+}
+
+@media screen and (max-width: 480px) {
+  .cd-dropdown-trigger {
+    display: none;
+  }
+
+  .hamburger {
+    cursor: pointer;
+    width: 28px;
+    height: 21px;
+    position: absolute;
+    right:0;
+    margin: 0 15px 15px 0;
+  }
+
+  .hamburger span {
+    display: block;
+    position: absolute;
+    height: 5px;
+    width: 100%;
+    background: #000;
+    border-radius: 9px;
+    opacity: 1;
+    left: 0;
+  }
+
+  .hamburger span:nth-child(1) {
+    top: 0px;
+  }
+  .hamburger span:nth-child(2) {
+    top: 8px;
+  }
+  .hamburger span:nth-child(3) {
+    top: 16px;
+  }
+
+  .footer-copyright {
+    font-size: 1rem;
+  }
 }
