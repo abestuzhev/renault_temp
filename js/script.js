@@ -1,4 +1,4 @@
-JSCSiteTabs = 
+JSCSiteTabs =
 {
 	SetActiveTab: function(Tab, bSkipHashSet)
 	{
@@ -36,7 +36,7 @@ JSCSiteTabs =
 
 	GetInput: function()
 	{
-		return $("form").has(".nav-tabs").find("input[name=\"active_tab\"]");	
+		return $("form").has(".nav-tabs").find("input[name=\"active_tab\"]");
 	},
 
 	Init: function()
@@ -70,8 +70,8 @@ JSCSiteTabs =
 			}
 
 			$(".nav-tabs li").unbind().live("click", function() {
-				JSCSiteTabs.SetActiveTab(this, window.disableTabHash || false);				
-			});			
+				JSCSiteTabs.SetActiveTab(this, window.disableTabHash || false);
+			});
 		});
 	}
 };
