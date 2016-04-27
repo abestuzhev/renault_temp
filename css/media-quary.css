@@ -5,14 +5,20 @@
   .cd-dropdown-content {
     top: -30px;
   }*/
+  .right-banners li{
+    outline:1px solid #BEBEBE;
+  }
   .mobile-wrapp {
+    display: none;
+  }
+  .dropbtn {
     display: none;
   }
 }
 @media screen and (max-width: 940px) {
   .h-wrap,
   .topbar{
-    width:900px;
+    /*width:900px;*/
   }
   /*#slider{
     width:100%;
@@ -62,7 +68,7 @@
 
 @media screen and (max-width: 940px){
   .h-wrap, .main-banner, #slider, #image_container li, .top-nav{
-    width:750px;
+    width:95%;
   }
   .main-banner,
   .right-banners,
@@ -70,7 +76,10 @@
   a.mcars {
     display: none;
   }
-
+  .breadcrumbs,
+  .breadcrumbs + h1 {
+    display: none;
+  }
   .topbar{
     display: none;
   }
@@ -101,26 +110,6 @@
     /*display: inline-block;*/
     vertical-align: top;
   }
-
-}
-
-@media screen and (max-width: 780px){
-  .h-wrap, .main-banner, #slider, #image_container li, .top-nav{
-    width:100%;
-    /*margin: 0 10px;*/
-  }
-  .h-content-inner {
-    padding: 0 15px;
-  }
-  #slider{
-    height:395px;
-  }
-}
-
-@media screen and (max-width: 780px){
-  .diller{
-    display: none;
-  }
   /*akcii*/
   .l_articles .news_date {
     float: none;
@@ -140,32 +129,117 @@
     display: inline;
     font-size:12px;
   }
+  .h-content-inner {
+    margin: 0;
+  }
 
   .h-content-inner ul li {
     margin-left:0;
   }
-}
-
-@media screen and (max-width: 700px){
+  /*aside*/
   .aside {
     float: none;
     width:100%;
     margin-bottom: 10px;
+    font-size: 0;
+    background: url(../images/aside-bg.png) 0 0 repeat-x #eae9e9;
+    box-shadow: 0 5px 5px #dbdbdb;
   }
-  .breadcrumbs,
-  .breadcrumbs + h1 {
+
+}
+@media screen and (max-width: 940px) and (min-width: 780px) {
+  .aside li{
+    display: inline-block;
+    font-size: 1.2rem;
+    background: none;
+    border:none;
+  }
+  .aside li a {
+    border-right:1px solid #fff;
+  }
+  .dropbtn {
     display: none;
   }
+}
+
+@media screen and (max-width: 780px){
+  .h-wrap, .main-banner, #slider, #image_container li, .top-nav{
+    width:100%;
+  }
+  .h-content-inner {
+    padding: 0 15px;
+  }
+  #slider{
+    height:395px;
+  }
+  /*menu*/
+  .h-content-inner {
+    margin-top:15px;
+  }
+  .dropbtn {
+    background-color: #e6e6e6;
+    background: url(../images/aside-bg.png) 0 0 repeat-x #eae9e9;
+        box-shadow: 0 5px 5px #dbdbdb;
+    color: black;
+    padding: 15px;
+    /*font-size: 16px;*/
+    border: none;
+    cursor: pointer;
+  }
+
+  .dropbtn:hover, .dropbtn:focus {
+      /*background-color: #D0D0D0;*/
+  }
+
+  .dropdown {
+      position: relative;
+      display: inline-block;
+  }
+  .aside {
+    display: none;
+    position: absolute;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  }
+  .aside li {
+    background-image: none;
+    background-color: #7a7c7b;
+  }
+  .aside li a {
+  padding: 15px 10px 15px 30px;
+  color:white;
+  font-size: 1.3rem;
+  background: none;
+  }
+  .show {display:block;}
+  .aside-wrap {
+    position: relative;
+  }
+
+}
+
+@media screen and (max-width: 780px){
+  .diller{
+    display: none;
+  }
+
+}
+
+@media screen and (max-width: 700px){
+
+
   .h-content-inner {
     margin-left: 0;
-    padding-right:5px;
+    /*padding-right:5px;*/
   }
+  /*dropdown menu*/
 }
 
 @media screen and (min-width: 700px){
   .form-horizontal .control-group:before, .form-horizontal .control-group:after {
-    display: inline-block;;
+    display: inline-block;
   }
+
 }
 
 @media screen and (max-width: 480px) {

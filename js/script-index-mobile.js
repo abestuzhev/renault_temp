@@ -12,4 +12,5 @@ $(document).ready(function(){
     fade: false,
     cssEase: 'linear'
   });
+
 });
