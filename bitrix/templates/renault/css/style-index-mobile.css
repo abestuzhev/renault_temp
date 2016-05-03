@@ -1,0 +1,276 @@
+
+
+/*slick*/
+.home-slider-item {
+  height: 417px;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: cover;
+  cursor: pointer;
+}
+
+
+.row-1,
+.row-2,
+.row-3 {
+  margin-bottom: 20px;
+}
+
+.row-1::after,
+.row-3::after {
+  content:"";
+  display: table;
+  clear: both;
+}
+
+.row-2 {
+  padding: 30px;
+  padding-right: 0;
+  box-shadow: 0 5px 5px #dbdbdb;
+  background: #eee url("../images/A4-paper-Overhead-view-mockup-vol-1.png") no-repeat 100% -4%;
+}
+
+.row-2__wrap {
+  text-decoration: none;
+  color: #000;
+}
+
+.row-2__wrap:hover {
+  text-decoration:underline;
+}
+
+.row-3 {
+  padding-top: 1px;
+  padding-left: 15px;
+  background-color: #e6e6e6;
+  box-shadow: rgba(0,0,0,.2) 0 5px 10px;
+}
+
+.row-2__title {
+  font-size: 24px;
+  line-height: 20px;
+  position: relative;
+  font-weight: 700;
+}
+
+.row-2__title,
+.row-2__sub-title {
+  padding-left: 45px;
+}
+
+.row-2__title::after {
+  content: "";
+  position: absolute;
+  left:0;
+  top: 0;
+  width:36px;
+  height: 42px;
+  background: url("../images/work_icon.png") no-repeat 50% 50%;
+}
+
+.row-2__sub-title {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.row-3-title {
+  margin: 15px 0 0;
+}
+
+.row-3__sub-title {
+  margin-bottom: 15px;
+}
+
+.row-3-title,
+.row-3__sub-title {
+  text-align: center;
+}
+
+.row-3__left,
+.row-3__right {
+  padding: 1%;
+}
+
+.row-1__left,
+.row-3__left {
+  float: left;
+  background-color: #3498db;
+}
+
+.row-1__right,
+.row-3__right {
+  float: right;
+}
+
+.row-1__left {
+  width: 56%;
+  height: 204px;
+}
+
+.row-1__right {
+  width: 44%;
+}
+
+.row-3__right {
+  width: 100%;
+}
+
+/*row-1*/
+.row-1__left {
+  position: relative;
+  background: url("../images/9c4b2975d408b0afc9f63fd99419821d.jpg") no-repeat 50% 50%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.service-clogan {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  font-size:1.6em;
+  font-weight: 700;
+  color: #fff;
+  text-shadow: 1px 1px 3px black;
+}
+
+.nav-topbar {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.nav-topbar__link {
+  display: block;
+  padding: 10px 15px;
+  text-decoration: none;
+  color:#000;
+  background-color: #FFCC33;
+  border-bottom: 1px solid #fff;
+  font-size: 14px;
+  line-height: 20px;
+  text-transform: uppercase;
+  position: relative;
+}
+
+.nav-topbar__link:hover {
+  background-color: #FBD257;
+}
+
+.nav-topbar__link::before,
+.nav-topbar__link::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  margin-top: -1px;
+  display: inline-block;
+  height: 2px;
+  width: 10px;
+  background: #000;
+  -webkit-transform-origin: 9px 50%;
+  -moz-transform-origin: 9px 50%;
+  -ms-transform-origin: 9px 50%;
+  -o-transform-origin: 9px 50%;
+  transform-origin: 9px 50%;
+}
+
+.nav-topbar__link::before {
+  right: 15px;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.nav-topbar__link::after {
+  right: 15px;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+/*row-3*/
+.contact-block__item {
+  box-sizing: border-box;
+  width: 32%;
+  padding: 0 5px;
+  display: inline-block;
+  margin-bottom: 20px;
+  vertical-align: top;
+}
+.contact-block__title {
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0 0 10px;
+}
+.contact-block__row {
+  font-size: 14px;
+  line-height: 16px;
+}
+
+/*media*/
+
+@media screen and (min-width: 750px){
+  .contact-block__row span {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 750px){
+ /* .h-wrap {
+    width: 95%
+  }*/
+
+  .nav-topbar__link {
+    font-size: 12px;
+    line-height: 20px;
+  }
+
+  .contact-block__item{
+    display: block;
+    width: 100%;
+  }
+
+  .row-2 {
+    background: none;
+  }
+
+}
+
+@media screen and (max-width: 580px) and (min-width: 480px){
+  .nav-topbar__link {
+    font-size: 10px;
+    line-height: 20px;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  .row-1__left,
+  .row-3__left,
+  .row-1__right,
+  .row-3__right {
+    float:none;
+    width:100%;
+    padding: 0;
+  }
+
+  .row-1,
+  .row-2,
+  .row-3 {
+    margin-bottom: 0;
+  }
+
+  .h-wrap {
+    width: 100%;
+    margin: 0;
+  }
+
+  body {
+    margin: 0;
+  }
+}
