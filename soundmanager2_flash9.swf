@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>ОФИЦИАЛЬНЫЙ ДИЛЕР RENAULT – ДИНАМИКА</title>
+<title>Страница не найдена!</title>
 <link rel="icon" type="image/png" href="bitrix/templates/renault/favicon.ico">
 <link href="bitrix/templates/renault/css/jquery.fancybox-1.3.4.css" type="text/css" rel="stylesheet">
 <link href="bitrix/templates/renault/css/photo.section/style.css" type="text/css" rel="stylesheet">
@@ -12,54 +12,21 @@
 <link href="bitrix/templates/renault/css/bootstrap.css" type="text/css" rel="stylesheet">
 <link href="bitrix/templates/renault/css/stylesheet.css" type="text/css" rel="stylesheet">
 <link href="bitrix/templates/renault/css/styles.css" type="text/css" rel="stylesheet">
-
-<!-- START mobile css -->
-<link rel="stylesheet" href="bitrix/templates/renault/css/style-menu.css">
-<script src="js/modernizr.js"></script> <!-- Modernizr --> 
-<link rel="stylesheet" href="bitrix/templates/renault/css/media-queries.css" type="text/css">
-<link rel="stylesheet" href="bitrix/templates/renault/slick/slick.css" type="text/css"> 
-<link rel="stylesheet" href="bitrix/templates/renault/slick/slick-theme.css" type="text/css"> 
-<link rel="stylesheet" href="bitrix/templates/renault/css/style-index-mobile.css" media="screen" title="no title" charset="utf-8">
-<meta name="viewport" content="width=device-width; initial-scale=1.0">
-<!-- END mobile css -->
-
-
-<!--[if lte IE 8]><link href="bitrix/templates/renault/css/ie.css" rel="stylesheet" type="text/css" /><![endif]--><!--[if lte IE 8]><script src="bitrix/templates/renault/js/html5shiv-printshiv.js" type="text/javascript"></script><![endif]-->
-
-<!-- START mobile js -->
-<script src="bitrix/templates/renault/js/jquery-2.1.1.js"></script>
-<!-- END mobile js -->
-
-<!-- <script src="../code.jquery.com/jquery-1.8.3.min.js"></script> -->
-<script type="text/javascript" src="bitrix/templates/renault/js/jquery.fancybox.js"></script>
-<script type="text/javascript" src="bitrix/templates/renault/js/jquery.masonry.js"></script>
-<script type="text/javascript" src="bitrix/templates/renault/js/jquery.bxslider.min.js"></script>
-<script type="text/javascript" src="bitrix/templates/renault/js/jquery.easing.js"></script>
-<script type="text/javascript" src="bitrix/templates/renault/js/jquery.mousewheel.js"></script>
-<script type="text/javascript" src="bitrix/templates/renault/js/jquery.maskedinput.min.js"></script>
-<script type="text/javascript" src="bitrix/templates/renault/js/jquery.placeholder.js"></script>
-<!--<script type="text/javascript" src="/bitrix/templates/renault/js/jquery.validate.js"></script>-->
-<script type="text/javascript" src="/bitrix/templates/renault/js/jquery.form.js"></script>
-<script type="text/javascript" src="bitrix/templates/renault/js/script.js"></script>
-<script type="text/javascript" src="bitrix/templates/renault/js/jquery-ui-1.10.2.custom.min.js"></script>
-<script type="text/javascript" src="bitrix/templates/renault/js/main.js"></script>
-<script type="text/javascript" src="bitrix/templates/renault/js/bootstrap.js"></script>
-
-<script type="text/javascript" src="../renault-avtomir.ru/bitrix/templates/renault/js/jquery.fixedtable.js@1429613198"></script>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--[if lte IE 8]><link href="bitrix/templates/renault/css/ie.css" rel="stylesheet" type="text/css" /><![endif]--><!--[if lte IE 8]><script src="bitrix/templates/renault/js/html5shiv-printshiv.js" type="text/javascript"></script><![endif]--><script src="../code.jquery.com/jquery-1.8.3.min.js"></script><script type="text/javascript" src="bitrix/templates/renault/js/jquery.fancybox.js"></script><script type="text/javascript" src="bitrix/templates/renault/js/jquery.masonry.js"></script><script type="text/javascript" src="bitrix/templates/renault/js/jquery.bxslider.min.js"></script><script type="text/javascript" src="bitrix/templates/renault/js/jquery.easing.js"></script><script type="text/javascript" src="bitrix/templates/renault/js/jquery.mousewheel.js"></script><script type="text/javascript" src="bitrix/templates/renault/js/jquery.maskedinput.min.js"></script><script type="text/javascript" src="bitrix/templates/renault/js/jquery.placeholder.js"></script><!--<script type="text/javascript" src="/bitrix/templates/renault/js/jquery.validate.js"></script>
+    <script type="text/javascript" src="/bitrix/templates/renault/js/jquery.form.js"></script>--><script type="text/javascript" src="bitrix/templates/renault/js/script.js"></script><script type="text/javascript" src="bitrix/templates/renault/js/jquery-ui-1.10.2.custom.min.js"></script><script type="text/javascript" src="bitrix/templates/renault/js/main.js"></script><script type="text/javascript" src="bitrix/templates/renault/js/bootstrap.js"></script><script type="text/javascript" src="../renault-avtomir.ru/bitrix/templates/renault/js/jquery.fixedtable.js@1429613198"></script><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="robots" content="index, follow">
 <meta name="keywords" content="компания Динамика, цены в салонах">
 <meta name="description" content="Сайт компании Рено Динамика">
 <link href="bitrix/cache/css/s1/renault/kernel_main/kernel_main0.css@145598612146796" type="text/css" rel="stylesheet">
-<link href="bitrix/cache/css/s1/renault/template_73aa4c4306e11257f47cafe660342221/template_73aa4c4306e11257f47cafe6603422210.css@14559747002629" type="text/css" data-template-style="true" rel="stylesheet">
-<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script><script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script><script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','USER_ID':'','SERVER_TIME':'1462127464','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'3f8af70ea6575b9f48479eb62cad075b'});</script><script type="text/javascript" src="bitrix/cache/js/s1/renault/kernel_main/kernel_main.js@1455986121387445"></script><script type="text/javascript">BX.setJSList(['bitrix/js/main/core/core.js@143149740297612','bitrix/js/main/core/core_ajax.js@143149740335278','bitrix/js/main/json/json2.min.js@14314974073442','bitrix/js/main/core/core_ls.js@143149740410330','bitrix/js/main/core/core_fx.js@143149740416537','bitrix/js/main/session.js@14314971723170','bitrix/js/main/core/core_window.js@143149740596525','bitrix/js/main/utils.js@143149717230972','bitrix/js/main/core/core_popup.js@143149740439406','bitrix/js/main/core/core_date.js@143149740353207','bitrix/templates/renault/components/bitrix/news.list/index_slider_avto/script.js@14325366151470']); </script><script type="text/javascript">BX.setCSSList(['bitrix/js/main/core/css/core.css@14314975975336','bitrix/js/main/core/css/core_popup.css@143149759828664','bitrix/js/main/core/css/core_date.css@143149759810189','bitrix/templates/renault/components/bitrix/news.list/index_slider_avto/style.css@14314989881635','bitrix/templates/renault/template_styles.css@1443011182768']); </script><script type="text/javascript" src="bitrix/cache/js/s1/renault/template_0003dce990c0007d1f94cf22c86d3e4a/template_0003dce990c0007d1f94cf22c86d3e4a.js@14559747001667"></script><script type="text/javascript">
+<link href="bitrix/cache/css/s1/renault/template_957f1f40dceab04679d0f89c86a3ebf4/template_957f1f40dceab04679d0f89c86a3ebf40.css@1455974558889" type="text/css" data-template-style="true" rel="stylesheet">
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script><script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script><script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','USER_ID':'','SERVER_TIME':'1462127535','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'3f8af70ea6575b9f48479eb62cad075b'});</script><script type="text/javascript" src="bitrix/cache/js/s1/renault/kernel_main/kernel_main.js@1455986121387445"></script><script type="text/javascript">BX.setJSList(['bitrix/js/main/core/core.js@143149740297612','bitrix/js/main/core/core_ajax.js@143149740335278','bitrix/js/main/json/json2.min.js@14314974073442','bitrix/js/main/core/core_ls.js@143149740410330','bitrix/js/main/core/core_fx.js@143149740416537','bitrix/js/main/session.js@14314971723170','bitrix/js/main/core/core_window.js@143149740596525','bitrix/js/main/utils.js@143149717230972','bitrix/js/main/core/core_popup.js@143149740439406','bitrix/js/main/core/core_date.js@143149740353207']); </script><script type="text/javascript">BX.setCSSList(['bitrix/js/main/core/css/core.css@14314975975336','bitrix/js/main/core/css/core_popup.css@143149759828664','bitrix/js/main/core/css/core_date.css@143149759810189','bitrix/templates/renault/template_styles.css@1443011182768']); </script><script type="text/javascript">
 bxSession.Expand(1440, '3f8af70ea6575b9f48479eb62cad075b', false, '00cc0959cbbd0021330f59288c9a1ec2');
 </script>
 </head>
 <body>
 <aside class="topbar"><div class="h-fixed">
 
-
+        
 <nav class="toper-nav"><ul>
 <li>
 				<noindex><a href="../https@www.renault.ru/my-renault/registration/login.jsp" rel="nofollow">Подключитесь к MY RENAULT</a></noindex>
@@ -80,7 +47,7 @@ bxSession.Expand(1440, '3f8af70ea6575b9f48479eb62cad075b', false, '00cc0959cbbd0
 </div>
 </aside><div class="h-wrap">
 <header class="header"><div class="diller">
-
+		
 	<noindex><a rel="nofollow" href="default.htm">
 			<img class="logo_automir" src="bitrix/templates/renault/images/logo-dynamica.png" alt="Динамика"></a>
 	</noindex><span class="phone">
@@ -96,20 +63,17 @@ bxSession.Expand(1440, '3f8af70ea6575b9f48479eb62cad075b', false, '00cc0959cbbd0
 					<div style="font-size:14px;margin-top: 4px;">в Архангельске</div>
 							<div style="font-size:14px;margin-top: 6px;">в Северодвинске</div>
 					</div>
-
+	
 	<a href="../infagrad.ru/data/panorams/29/tour.html" target="_blank">
 		<div class="button_3d">
 			<div></div>
 		</div>
 	</a>
-
+    
     <a href="default.htm" title="На главную страницу" target="_blank">
         <img class="logo" src="bitrix/templates/renault/images/logo.png" alt="Renault"></a>
     <div class="clear"> </div>
-</header>
-<nav class="top-nav">
-<table>
-<tr>
+</header><nav class="top-nav"><table><tr>
 <td>
                     <div class="nav-item-inn">
                         <a href="default.htm"><span class="icon">h</span></a>
@@ -576,259 +540,7 @@ bxSession.Expand(1440, '3f8af70ea6575b9f48479eb62cad075b', false, '00cc0959cbbd0
                                                                                             </ul>
 </div>
                 </td>
-                                                                                            </tr></table></nav>
-
-
-
-
-<!-- START mobile menu -->
-        <header class="menu-header">
-            <div class="cd-dropdown-wrapper">
-                <a class="cd-dropdown-trigger" href="#0">Меню</a>
-        <div class="hamburger">
-          <span></span>
-          <span></span>
-          <span></span>
-        </div>
-                <div class="logo-title">
-                    <div>Динамика Архангельск РР</div>
-                    <div>Официальный дилер Renault</div>
-                </div>
-                <nav class="cd-dropdown">
-
-                    <a href="#0" class="cd-close">Close</a>
-                    <ul class="cd-dropdown-content">
-                        <li class="menu-title"><a href="#0">Меню</a></li>
-                        <li class="has-children">
-                            <a href="http://codyhouse.co/?p=748" class="del-pointer">Автомобили</a>
-
-                            <ul class="cd-secondary-dropdown is-hidden children-2">
-                                <li class="go-back"><a href="#0">Автомобили</a></li>
-                                <li class="has-children">
-                                    <a href="http://codyhouse.co/?p=748" id="a">Легковые автомобили</a>
-                                    <ul class="cd-secondary-dropdown is-hidden children-3">
-                                        <li class="go-back"><a href="#0">Легковые автомобили</a></li>
-                                        <li>
-                                            <a href="#"  class="car logan-new">
-                                                <span>Новый LOGAN</span>
-                                                <span class="car-price">от 449 000 рублей**</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#"  class="car logan">
-                                                <span>LOGAN</span>
-                                                <span class="car-price">от 409 000 рублей**</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#"  class="car duster">
-                                                <span>Новый DUSTER</span>
-                                                <span class="car-price">от 629 000 рублей**</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#"  class="car san-stepway">
-                                                <span>SANDERO Stepway</span>
-                                                <span class="car-price">от 629 990 рублей**</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#"  class="car san">
-                                                <span>SANDERO</span>
-                                                <span class="car-price">от 479 900 рублей**</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#"  class="car fluence">
-                                                <span>FLUENCE</span>
-                                                <span class="car-price">от 869 990 рублей**</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#"  class="car megane-h">
-                                                <span>MEGANE</span>
-                                                <span class="car-price">от 849 000 рублей**</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#"  class="car megane-rs">
-                                                <span>MEGANE R.S.</span>
-                                                <span class="car-price">от 1 619 990 рублей**</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#"  class="car koleos">
-                                                <span>KOLEOS</span>
-                                                <span class="car-price">от 1 299 000 рублей**</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#"  class="car kangoo">
-                                                <span>KANGOO</span>
-                                                <span class="car-price">от 989 000 рублей**</span>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="has-children">
-                                    <a href="http://codyhouse.co/?p=748">Коммерческий транспорт</a>
-                                    <ul class="cd-secondary-dropdown is-hidden children-3">
-                                        <li class="go-back"><a href="#0">Легковые автомобили</a></li>
-                                        <li>
-                                            <a href="#"  class="car master">
-                                                <span>MASTER</span>
-                                                <span class="car-price">от 1 550 000 рублей</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#"  class="car kangoo-f">
-                                                <span>KANGOO фургон</span>
-                                                <span class="car-price">от 899 000 рублей</span>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">Автомобили в наличии</a></li>
-                                <li><a href="#">Автомобили с пробегом</a></li>
-                            </ul> <!-- .cd-secondary-dropdown -->
-                        </li> <!-- .has-children -->
-
-                        <li class="has-children">
-                            <a href="http://codyhouse.co/?p=748" class="del-pointer">Акции</a>
-
-                            <ul class="cd-secondary-dropdown is-hidden children-2">
-                                <li class="go-back"><a href="#0">Акции</a></li>
-                                <li><a href="#">Продажа автомобилей</a></li>
-                                <li><a href="#">Сервисные акции</a></li>
-                                <li class="has-children">
-                                    <a href="http://codyhouse.co/?p=748" id="a">My Renault</a>
-                                    <ul class="cd-secondary-dropdown is-hidden children-3">
-                                        <li class="go-back"><a href="#0">My Renault</a></li>
-                                        <li><a href="#">Продажа автомобилей</a></li>
-                                        <li><a href="#">Сервисные акции</a></li>
-                                    </ul>
-                                </li>
-                            </ul> <!-- .cd-secondary-dropdown -->
-                        </li> <!-- .has-children -->
-                        <li class="has-children">
-                            <a href="http://codyhouse.co/?p=748" class="del-pointer">Услуги</a>
-
-                            <ul class="cd-secondary-dropdown is-hidden children-2">
-                            <li class="go-back"><a href="#0">Услуги</a></li>
-                            <li class="has-children">
-                                <a href="http://codyhouse.co/?p=748" id="a">Страхование</a>
-                                <ul class="cd-secondary-dropdown is-hidden children-3">
-                                    <li class="go-back"><a href="#0">Страхование</a></li>
-                                    <li><a href="#">Виды страхования</a></li>
-                                </ul>
-                            </li>
-                                <li><a href="#">Trade-in</a></li>
-                                <li><a href="#">Лизинг</a></li>
-                                <li><a href="#">Подменный автомобиль</a></li>
-                                <li><a href="#">Заявка на покупку</a></li>
-                                <li><a href="#">Клиентская служба</a></li>
-                            </ul> <!-- .cd-secondary-dropdown -->
-                        </li> <!-- .has-children -->
-
-                        <li class="has-children">
-                            <a href="http://codyhouse.co/?p=748" class="del-pointer">Сервис и запчасти</a>
-
-                            <ul class="cd-secondary-dropdown is-hidden children-2">
-                            <li class="go-back"><a href="#0">Сервис и запчасти</a></li>
-                                <li><a href="#">Запись на сервис</a></li>
-                                <li><a href="#">Кузовной ремонт</a></li>
-                                <li class="has-children">
-                                    <a href="http://codyhouse.co/?p=748" id="a">Гарантия</a>
-                                    <ul class="cd-secondary-dropdown is-hidden children-3">
-                                        <li class="go-back"><a href="#0">Гарантия</a></li>
-                                        <li><a href="#">Гарантия Renault</a></li>
-                                        <li><a href="#">Продленная гарантия</a></li>
-                                    </ul>
-                                </li>
-                                <li class="has-children">
-                                    <a href="http://codyhouse.co/?p=748" id="a">Renault Assistance</a>
-                                    <ul class="cd-secondary-dropdown is-hidden children-3">
-                                        <li class="go-back"><a href="#0">Renault Assistance</a></li>
-                                        <li><a href="#">Renault Assistance</a></li>
-                                        <li><a href="#">Renault Assistance PLUS</a></li>
-                                    </ul>
-                                </li>
-                                <li class="has-children">
-                                    <a href="http://codyhouse.co/?p=748" id="a">Запчасти и аксессуары</a>
-                                    <ul class="cd-secondary-dropdown is-hidden children-3">
-                                        <li class="go-back"><a href="#0">Запчасти и аксессуары</a></li>
-                                        <li><a href="#">Оригинальные запчасти</a></li>
-                                        <li><a href="#">Аксессуары</a></li>
-                                        <li><a href="#">Оптовая продажа запчастей</a></li>
-                                    </ul>
-                                </li>
-                                <li class="has-children">
-                                    <a href="http://codyhouse.co/?p=748" id="a">Техническое обслуживание</a>
-                                    <ul class="cd-secondary-dropdown is-hidden children-3">
-                                        <li class="go-back"><a href="#0">Техническое обслуживание</a></li>
-                                        <li><a href="#">Техническое обслуживание</a></li>
-                                        <li><a href="#">Комплекс-сервис</a></li>
-                                    </ul>
-                                </li>
-                            </ul> <!-- .cd-secondary-dropdown -->
-                        </li> <!-- .has-children -->
-
-                        <li class="has-children">
-                            <a href="http://codyhouse.co/?p=748" class="del-pointer">Корпоративным клиентам</a>
-
-                            <ul class="cd-secondary-dropdown is-hidden children-2">
-                            <li class="go-back"><a href="#0">Корпоративным клиентам</a></li>
-                                <li><a href="#">Renault Business</a></li>
-                                <li><a href="#">Renault Leasing</a></li>
-                                <li><a href="#">Лизинг</a></li>
-                                <li><a href="#">Контакты</a></li>
-                            </ul> <!-- .cd-secondary-dropdown -->
-                        </li> <!-- .has-children -->
-
-                        <li class="has-children">
-                            <a href="http://codyhouse.co/?p=748" class="del-pointer">Кредит</a>
-
-                            <ul class="cd-secondary-dropdown is-hidden children-2">
-                            <li class="go-back"><a href="#0">Кредит</a></li>
-                                <li><a href="#">Кредитный калькулятор</a></li>
-                                <li><a href="#">Преимущества программы</a></li>
-                                <li><a href="#">Заявка на кредит</a></li>
-                                <li><a href="#">Разумное КАСКО</a></li>
-                                <li><a href="#">Защита платежей</a></li>
-                                <li><a href="#">Автомобили с пробегом</a></li>
-                            </ul> <!-- .cd-secondary-dropdown -->
-                        </li> <!-- .has-children -->
-                        <li><a href="">Новости</a></li>
-                        <li class="has-children">
-                            <a href="http://codyhouse.co/?p=748" class="del-pointer">О компании</a>
-
-                            <ul class="cd-secondary-dropdown is-hidden children-2">
-                            <li class="go-back"><a href="#0">О компании</a></li>
-                                <li><a href="#">История Renault</a></li>
-                                <li><a href="#">О нас</a></li>
-                                <li><a href="#">Вакансии</a></li>
-                            </ul> <!-- .cd-secondary-dropdown -->
-                        </li> <!-- .has-children -->
-
-                        <li class="has-children">
-                            <a href="http://codyhouse.co/?p=748" class="del-pointer">Контакты</a>
-
-                            <ul class="cd-secondary-dropdown is-hidden children-2">
-                            <li class="go-back"><a href="#0">Контакты</a></li>
-                                <li><a href="#">Архангельск</a></li>
-                                <li><a href="#">Северодвинск</a></li>
-                            </ul> <!-- .cd-secondary-dropdown -->
-                        </li> <!-- .has-children -->
-
-                    </ul> <!-- .cd-dropdown-content -->
-                </nav> <!-- .cd-dropdown -->
-            </div> <!-- .cd-dropdown-wrapper -->
-        </header>
-<!-- END mobile menu -->
-
-
-
-<script>
+                                                                                            </tr></table></nav><script>
     $(document).ready(function(){
        $(".sub-subnav-ul").hover(function(){
            $(this).prev("a").children(".ar").show();
@@ -836,79 +548,45 @@ bxSession.Expand(1440, '3f8af70ea6575b9f48479eb62cad075b', false, '00cc0959cbbd0
            $(this).prev().children(".ar").removeAttr("style");
        })
     });
-</script>
-
-
-
-
-
-<!-- BEGIN: THIS START CONTENT -->
-    <div class="h-content-wrap ">
+</script><div class="h-content-wrap ">
     <div class="h-content">
-
-                        <div class="breadcrumbs"><ul class="breadcrumbs2">
-<li><a href="/" title="Главная">Главная</a></li>
-<li class="current"><span>Корпоративным клиентам</span></li>
-</ul></div>                     <h1>Корпоративным клиентам</h1>
+        			
+			            <div class="breadcrumbs"><ul class="breadcrumbs2"><li class="current"><span>Главная</span></li></ul></div>						<h1>Страница не найдена!</h1>            
 
             <div class="clear"></div>
-            <!-- start -->
-
-                <div onclick="myFunction()" class="dropbtn">Корпоративным клиентам</div>
-                <aside id="myDropdown" class="aside">
-          <ul>
-            <li class=""><a href="/corporate-customers/business/">Renault Business</a></li>
-                <li class=""><a href="/corporate-customers/leasing/">Renault Leasing</a></li>
-                <li class=""><a href="/corporate-customers/leazing/">Лизинг</a></li>
-                <li class=""><a href="/corporate-customers/corp_contacts/">Контакты</a></li>
-          </ul>
-        </aside>
-
-            <!-- end -->
-
-    <div class="h-content-inner">
-        <div>
-  <div>
-    <p align="justify">Вы хотите, чтобы корпоративный автопарк обслуживали профессионалы? Мы разработали комплекс мероприятий для корпоративных клиентов, которые позволят содержать автомобили Вашей компании в исправности и порядке, плюс экономить средства!</p>
-
-    <p align="justify">Мы гарантируем Ваш комфорт – просто откиньтесь в кресле и предоставьте решение всех вопросов профессионалам. Мы предлагаем полный комплекс услуг по техническому обслуживанию и ремонту принадлежащего Вашей компании автопарка, в том числе:</p>
-
-    <ul type="disc">
-<li style="text-align: justify;">полное техническое обслуживание транспортных средств в объемах и с периодичностью, установленными заводом-изготовителем; гарантийный и послегарантийный ремонт, замена деталей, узлов и агрегатов, пришедших в негодность в процессе эксплуатации; </li>
-
-      <li style="text-align: justify;">доставка транспортного средства эвакуатором при возникновении технической необходимости; </li>
-
-      <li style="text-align: justify;">межсезонная замена авторезины, хранение дополнительных комплектов колес; </li>
-
-      <li style="text-align: justify;">мойка автомобиля при каждом ТО, предоставление подменного транспортного средства на время ремонта по специальному тарифу; </li>
-
-      <li style="text-align: justify;">решение любых проблем, возникающих в процессе эксплуатации автомобильного парка.</li>
-     </ul>
-<p align="justify">Воспользуйтесь нашим комплексом мероприятий для корпоративных клиентов, и получите целый ряд преимуществ, таких как:</p>
-
-    <ul type="disc">
-<li style="text-align: justify;">возможность организации ремонта и обслуживание транспортных средств по выходным; </li>
-
-      <li style="text-align: justify;">удобство оплаты, возможны различные формы: от предоплаты до выставления счетов по факту обслуживания; </li>
-
-      <li style="text-align: justify;">полный ассортимент оригинальных запчастей и сопутствующих материалов, необходимых для проведения технического обслуживания и текущего ремонта, cобственные аналитические исследования потребности автопарков в материалах, необходимых для проведения технического обслуживания и текущего ремонта; </li>
-
-      <li style="text-align: justify;">гибкая система скидок на предоставляемые услуги, запчасти и материалы обслуживанием автопарков занимается специальный менеджер по работе с корпоративными клиентами, готовый в любое время ответить на Ваши вопросы.</li>
-    </ul>
+                        <div class="h-content-inner">
+            <div class="error-404">
+        <div class="block-error-404">
+            <div class="menu-404">
+                <ul class="menu-error-404">
+<li><a href="cars/default.htm">Модельный ряд</a></li>
+                    <li><a href="service/default.htm">Сервис Renault</a></li>
+                    <li><a href="corp/default.htm">Корпоративным клиентам</a></li>
+                    <li><a href="services/credit/default.htm">Кредит</a></li>
+                </ul>
 </div>
- </div>    </div>
+        </div>
+        <div class="error-search">
+            <span>Воспользуйтесь поиском или выберите<br>интересующий вас раздел сайта</span>
+            <div class="err404-search">
+                
+<form action="/search/index.php" class="top-search">
+    <label for="search"><img src="bitrix/templates/renault/components/bitrix/search.form/.default/img/lupa.png" alt=""></label>
+            <input type="text" name="q" class="text" value="" size="15" maxlength="50"><input name="s" class="submit" type="submit" value="Поиск">
+</form>
+            </div>
+        </div>
 
+    </div>
+<script>
+    $(".h-content-inner").removeClass("h-content-inner");
+</script>
+</div>
 
+    <aside class="aside"><ul></ul></aside>
 </div>
 <!-- /h-content -->
 </div>
-<!-- /h-content-wrap -->
-<!-- END: THIS FINISH CONTENT -->
-
-
-
-<div class="h-content-wrap ">
- 
 <!-- /h-content-wrap -->
 
 <div class="clear"></div>
@@ -920,8 +598,8 @@ bxSession.Expand(1440, '3f8af70ea6575b9f48479eb62cad075b', false, '00cc0959cbbd0
         <a href="#" target="_blank">
             <img rel="nofollow" alt="Динамика" title="Динамика" src="bitrix/templates/renault/images/logo-dynamica.png"></a>
 
-        © 2016<br>
-        Единая информационная служба: +7 (8182) 462-462<br><a href="contacts/default.htm">Контактная информация</a>
+        © 2015<br>
+Единая информационная служба: +7 (8182) 462-462<br><a href="contacts/default.htm">Контактная информация</a>
           
         <a href="sitemap/default.htm">Карта сайта</a>
 		<span id="bx-composite-banner"></span>
@@ -949,17 +627,6 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
 ga('create', 'UA-66177985-1', 'auto');
 ga('send', 'pageview');
-</scri--><span style="color: #fff;">45789</span>
-
-<script type="text/javascript">
-(window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=OCkd6MEixFuq0Ew6GzQSY*5sjYs0BwmAGZ1Vd2acPXVWkkZFt6ppInO2cMDhK7*sJDN1S8Ony2hGG60oIJ4kC*XXHeoxmPYKu8iwwl6CWRoooOcnqyhuY6Yrq1NShIy1*RmpctRcszhEmg/XmxKi9QtcDaOuienpHQlb6m1FHko-';</script>
-</div>
-<!-- START mobile js -->
-<!-- <script src="bitrix/templates/renault/js/jquery-2.1.1.js"></script> -->
-<script src="bitrix/templates/renault/js/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
-<script src="bitrix/templates/renault/js/main-menu.js"></script>
-<script src="bitrix/templates/renault/slick/slick.min.js" type="text/javascript"></script>
-<!-- END mobile js -->
-
+</scri-->
 </body>
 </html>
